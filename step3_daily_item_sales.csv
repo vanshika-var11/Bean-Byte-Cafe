@@ -1,0 +1,321 @@
+date,food_ordered,Order_Count
+2025-12-25,Cold Coffee,39
+2025-12-25,French Fries,36
+2025-12-25,Chicken Burger,34
+2025-12-25,Margherita Pizza,33
+2025-12-25,Momos,29
+2025-12-25,Paneer Roll,29
+2025-12-25,Soft Drinks,28
+2025-12-25,Caesar Salad,25
+2025-12-25,Mocktails,25
+2025-12-25,Spring Rolls,25
+2025-12-25,Pepperoni Pizza,23
+2025-12-25,Veg Burger,23
+2025-12-25,Vegetable Chowmein,23
+2025-12-25,Chicken Biryani,22
+2025-12-25,Mixed Fruit Juice,20
+2025-12-25,Chicken Roll,19
+2025-12-25,Veg Biryani,19
+2025-12-25,Veg Kabab,17
+2025-12-25,Chocolate Shake,16
+2025-12-25,Pasta Alfredo,15
+2025-12-26,French Fries,47
+2025-12-26,Cold Coffee,40
+2025-12-26,Chicken Burger,36
+2025-12-26,Momos,35
+2025-12-26,Margherita Pizza,34
+2025-12-26,Vegetable Chowmein,30
+2025-12-26,Chicken Roll,27
+2025-12-26,Spring Rolls,24
+2025-12-26,Veg Biryani,24
+2025-12-26,Paneer Roll,23
+2025-12-26,Veg Burger,23
+2025-12-26,Caesar Salad,22
+2025-12-26,Chocolate Shake,18
+2025-12-26,Mocktails,18
+2025-12-26,Pasta Alfredo,18
+2025-12-26,Pepperoni Pizza,17
+2025-12-26,Soft Drinks,17
+2025-12-26,Chicken Biryani,16
+2025-12-26,Veg Kabab,16
+2025-12-26,Mixed Fruit Juice,15
+2025-12-27,Chicken Burger,36
+2025-12-27,Vegetable Chowmein,36
+2025-12-27,Momos,31
+2025-12-27,French Fries,29
+2025-12-27,Cold Coffee,28
+2025-12-27,Paneer Roll,28
+2025-12-27,Caesar Salad,27
+2025-12-27,Mixed Fruit Juice,27
+2025-12-27,Spring Rolls,27
+2025-12-27,Veg Biryani,27
+2025-12-27,Margherita Pizza,26
+2025-12-27,Soft Drinks,26
+2025-12-27,Chicken Biryani,25
+2025-12-27,Pepperoni Pizza,25
+2025-12-27,Chocolate Shake,22
+2025-12-27,Veg Burger,20
+2025-12-27,Chicken Roll,19
+2025-12-27,Veg Kabab,19
+2025-12-27,Mocktails,12
+2025-12-27,Pasta Alfredo,10
+2025-12-28,Chicken Burger,42
+2025-12-28,Cold Coffee,42
+2025-12-28,Soft Drinks,37
+2025-12-28,Chicken Roll,30
+2025-12-28,Caesar Salad,27
+2025-12-28,French Fries,27
+2025-12-28,Spring Rolls,27
+2025-12-28,Veg Biryani,26
+2025-12-28,Vegetable Chowmein,26
+2025-12-28,Pepperoni Pizza,25
+2025-12-28,Momos,24
+2025-12-28,Margherita Pizza,23
+2025-12-28,Paneer Roll,22
+2025-12-28,Veg Burger,21
+2025-12-28,Veg Kabab,21
+2025-12-28,Chocolate Shake,20
+2025-12-28,Mixed Fruit Juice,18
+2025-12-28,Mocktails,15
+2025-12-28,Pasta Alfredo,14
+2025-12-28,Chicken Biryani,13
+2025-12-29,Chicken Burger,41
+2025-12-29,Caesar Salad,36
+2025-12-29,Cold Coffee,36
+2025-12-29,Chicken Roll,33
+2025-12-29,French Fries,32
+2025-12-29,Veg Biryani,32
+2025-12-29,Momos,27
+2025-12-29,Spring Rolls,26
+2025-12-29,Mixed Fruit Juice,25
+2025-12-29,Pepperoni Pizza,24
+2025-12-29,Vegetable Chowmein,24
+2025-12-29,Paneer Roll,23
+2025-12-29,Chicken Biryani,22
+2025-12-29,Chocolate Shake,21
+2025-12-29,Margherita Pizza,18
+2025-12-29,Mocktails,18
+2025-12-29,Soft Drinks,18
+2025-12-29,Veg Burger,18
+2025-12-29,Pasta Alfredo,13
+2025-12-29,Veg Kabab,13
+2025-12-30,Cold Coffee,41
+2025-12-30,French Fries,35
+2025-12-30,Pepperoni Pizza,33
+2025-12-30,Chicken Burger,31
+2025-12-30,Vegetable Chowmein,31
+2025-12-30,Caesar Salad,30
+2025-12-30,Momos,29
+2025-12-30,Veg Biryani,27
+2025-12-30,Soft Drinks,25
+2025-12-30,Chicken Biryani,24
+2025-12-30,Paneer Roll,24
+2025-12-30,Margherita Pizza,23
+2025-12-30,Spring Rolls,22
+2025-12-30,Pasta Alfredo,21
+2025-12-30,Veg Burger,19
+2025-12-30,Veg Kabab,19
+2025-12-30,Chocolate Shake,17
+2025-12-30,Mocktails,17
+2025-12-30,Chicken Roll,16
+2025-12-30,Mixed Fruit Juice,16
+2025-12-31,Spring Rolls,38
+2025-12-31,Cold Coffee,37
+2025-12-31,Caesar Salad,32
+2025-12-31,Veg Biryani,30
+2025-12-31,Margherita Pizza,27
+2025-12-31,Momos,27
+2025-12-31,Paneer Roll,27
+2025-12-31,Pepperoni Pizza,27
+2025-12-31,Veg Burger,27
+2025-12-31,Chocolate Shake,26
+2025-12-31,Chicken Biryani,24
+2025-12-31,Chicken Burger,24
+2025-12-31,Mixed Fruit Juice,24
+2025-12-31,French Fries,22
+2025-12-31,Vegetable Chowmein,22
+2025-12-31,Soft Drinks,21
+2025-12-31,Mocktails,19
+2025-12-31,Chicken Roll,17
+2025-12-31,Veg Kabab,16
+2025-12-31,Pasta Alfredo,13
+2026-01-01,Spring Rolls,39
+2026-01-01,Veg Biryani,39
+2026-01-01,Cold Coffee,38
+2026-01-01,Momos,37
+2026-01-01,Margherita Pizza,30
+2026-01-01,Chocolate Shake,28
+2026-01-01,French Fries,28
+2026-01-01,Caesar Salad,27
+2026-01-01,Chicken Burger,27
+2026-01-01,Chicken Roll,26
+2026-01-01,Pepperoni Pizza,25
+2026-01-01,Vegetable Chowmein,21
+2026-01-01,Mocktails,20
+2026-01-01,Veg Burger,20
+2026-01-01,Soft Drinks,19
+2026-01-01,Chicken Biryani,18
+2026-01-01,Veg Kabab,17
+2026-01-01,Paneer Roll,15
+2026-01-01,Pasta Alfredo,14
+2026-01-01,Mixed Fruit Juice,12
+2026-01-02,Chicken Burger,39
+2026-01-02,Veg Biryani,35
+2026-01-02,French Fries,34
+2026-01-02,Margherita Pizza,34
+2026-01-02,Chicken Roll,32
+2026-01-02,Cold Coffee,32
+2026-01-02,Vegetable Chowmein,30
+2026-01-02,Chocolate Shake,29
+2026-01-02,Caesar Salad,28
+2026-01-02,Paneer Roll,25
+2026-01-02,Momos,24
+2026-01-02,Pasta Alfredo,24
+2026-01-02,Mocktails,20
+2026-01-02,Soft Drinks,19
+2026-01-02,Pepperoni Pizza,18
+2026-01-02,Spring Rolls,18
+2026-01-02,Veg Burger,17
+2026-01-02,Mixed Fruit Juice,16
+2026-01-02,Chicken Biryani,15
+2026-01-02,Veg Kabab,11
+2026-01-03,Cold Coffee,38
+2026-01-03,Veg Biryani,38
+2026-01-03,Chicken Burger,36
+2026-01-03,Vegetable Chowmein,35
+2026-01-03,Chocolate Shake,34
+2026-01-03,Momos,30
+2026-01-03,Spring Rolls,27
+2026-01-03,Paneer Roll,26
+2026-01-03,Caesar Salad,25
+2026-01-03,Chicken Roll,25
+2026-01-03,French Fries,25
+2026-01-03,Margherita Pizza,25
+2026-01-03,Soft Drinks,25
+2026-01-03,Pepperoni Pizza,20
+2026-01-03,Mixed Fruit Juice,19
+2026-01-03,Pasta Alfredo,19
+2026-01-03,Veg Kabab,16
+2026-01-03,Mocktails,14
+2026-01-03,Veg Burger,13
+2026-01-03,Chicken Biryani,10
+2026-01-04,Cold Coffee,35
+2026-01-04,Veg Biryani,34
+2026-01-04,Paneer Roll,32
+2026-01-04,Soft Drinks,32
+2026-01-04,Mixed Fruit Juice,31
+2026-01-04,Caesar Salad,30
+2026-01-04,Margherita Pizza,30
+2026-01-04,Momos,29
+2026-01-04,Chicken Burger,28
+2026-01-04,French Fries,26
+2026-01-04,Chocolate Shake,25
+2026-01-04,Chicken Roll,24
+2026-01-04,Pepperoni Pizza,20
+2026-01-04,Pasta Alfredo,19
+2026-01-04,Spring Rolls,19
+2026-01-04,Chicken Biryani,18
+2026-01-04,Mocktails,18
+2026-01-04,Veg Burger,18
+2026-01-04,Vegetable Chowmein,18
+2026-01-04,Veg Kabab,14
+2026-01-05,Cold Coffee,42
+2026-01-05,Momos,40
+2026-01-05,Margherita Pizza,39
+2026-01-05,Soft Drinks,32
+2026-01-05,Vegetable Chowmein,28
+2026-01-05,Chicken Roll,26
+2026-01-05,Mixed Fruit Juice,26
+2026-01-05,Veg Biryani,25
+2026-01-05,Chicken Burger,24
+2026-01-05,Chocolate Shake,24
+2026-01-05,Paneer Roll,24
+2026-01-05,Caesar Salad,23
+2026-01-05,French Fries,23
+2026-01-05,Pasta Alfredo,21
+2026-01-05,Spring Rolls,21
+2026-01-05,Mocktails,20
+2026-01-05,Pepperoni Pizza,17
+2026-01-05,Chicken Biryani,16
+2026-01-05,Veg Kabab,15
+2026-01-05,Veg Burger,14
+2026-01-06,Cold Coffee,47
+2026-01-06,French Fries,33
+2026-01-06,Chicken Burger,32
+2026-01-06,Veg Biryani,32
+2026-01-06,Vegetable Chowmein,32
+2026-01-06,Momos,31
+2026-01-06,Caesar Salad,29
+2026-01-06,Mixed Fruit Juice,28
+2026-01-06,Chicken Roll,27
+2026-01-06,Paneer Roll,27
+2026-01-06,Spring Rolls,24
+2026-01-06,Chicken Biryani,22
+2026-01-06,Mocktails,22
+2026-01-06,Pepperoni Pizza,20
+2026-01-06,Pasta Alfredo,19
+2026-01-06,Chocolate Shake,17
+2026-01-06,Margherita Pizza,16
+2026-01-06,Veg Kabab,16
+2026-01-06,Soft Drinks,14
+2026-01-06,Veg Burger,12
+2026-01-07,Cold Coffee,38
+2026-01-07,Veg Biryani,38
+2026-01-07,Caesar Salad,33
+2026-01-07,Chicken Roll,33
+2026-01-07,French Fries,32
+2026-01-07,Momos,32
+2026-01-07,Paneer Roll,32
+2026-01-07,Chocolate Shake,31
+2026-01-07,Mixed Fruit Juice,26
+2026-01-07,Chicken Biryani,25
+2026-01-07,Margherita Pizza,25
+2026-01-07,Soft Drinks,25
+2026-01-07,Chicken Burger,23
+2026-01-07,Spring Rolls,23
+2026-01-07,Pepperoni Pizza,20
+2026-01-07,Veg Kabab,17
+2026-01-07,Veg Burger,13
+2026-01-07,Vegetable Chowmein,13
+2026-01-07,Mocktails,11
+2026-01-07,Pasta Alfredo,10
+2026-01-08,Veg Biryani,40
+2026-01-08,Chicken Roll,34
+2026-01-08,Cold Coffee,33
+2026-01-08,Chicken Burger,32
+2026-01-08,Margherita Pizza,32
+2026-01-08,Caesar Salad,30
+2026-01-08,Chocolate Shake,30
+2026-01-08,French Fries,30
+2026-01-08,Spring Rolls,26
+2026-01-08,Momos,24
+2026-01-08,Mocktails,22
+2026-01-08,Paneer Roll,22
+2026-01-08,Mixed Fruit Juice,21
+2026-01-08,Soft Drinks,19
+2026-01-08,Veg Burger,19
+2026-01-08,Vegetable Chowmein,19
+2026-01-08,Pasta Alfredo,18
+2026-01-08,Chicken Biryani,17
+2026-01-08,Pepperoni Pizza,17
+2026-01-08,Veg Kabab,15
+2026-01-09,Margherita Pizza,43
+2026-01-09,French Fries,38
+2026-01-09,Spring Rolls,38
+2026-01-09,Cold Coffee,34
+2026-01-09,Veg Biryani,33
+2026-01-09,Chocolate Shake,32
+2026-01-09,Caesar Salad,29
+2026-01-09,Chicken Roll,27
+2026-01-09,Chicken Burger,24
+2026-01-09,Momos,23
+2026-01-09,Chicken Biryani,21
+2026-01-09,Paneer Roll,21
+2026-01-09,Vegetable Chowmein,21
+2026-01-09,Soft Drinks,20
+2026-01-09,Pasta Alfredo,19
+2026-01-09,Veg Kabab,19
+2026-01-09,Veg Burger,18
+2026-01-09,Mixed Fruit Juice,16
+2026-01-09,Mocktails,14
+2026-01-09,Pepperoni Pizza,10
